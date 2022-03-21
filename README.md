@@ -3,7 +3,7 @@
 
 #### A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/lgcyalex"><img src="https://te.legra.ph/file/573cf7b80911ffbe278aa.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/Navya-Developer"><img src="https://telegra.ph/file/e453565890a4a82e60ed4.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
@@ -12,7 +12,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LgcyAlex/STRING-GENERATE)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Navya-Developer/STRING-GENERATE)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/lgcyalex/STRING-GENERATE
+   git clone https://github.com/Navya-Developer/STRING-GENERATE
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -61,9 +61,9 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [Join Group](https://t.me/LGCY_OFFICIAL)
+Channel :- [Join Group](https://t.me/TheNavya)
 
-Group Chat :- [Group support](https://t.me/Clan8Xofficial)
+Group Chat :- [Group support](https://t.me/NavyaSupport)
 
 
 
