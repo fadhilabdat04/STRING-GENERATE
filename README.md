@@ -1,4 +1,4 @@
-# REPL-BOT By ŁGcY・AŁEX
+# REPL-BOT By Navya OP
 
 
 #### A star ⭐ from you means a lot to us!
