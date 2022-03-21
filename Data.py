@@ -59,7 +59,7 @@ Pᴏᴡᴇʀᴇᴅ  Bʏ: [NAVYA](https://t.me/WTF_NAVYA)
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to Manage group and generate pyrogram and telethon string session by @LGcYALEX
+A telegram bot to Manage group and generate pyrogram and telethon string session by @TheNavya
 
 Source Code : [Click Here](https://github.com/NAVYA-DEVELOPER/STRING-GENERATE)
 
@@ -67,5 +67,5 @@ Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @LGcYALEX
+Developer : @WTF_NAVYA
     """
