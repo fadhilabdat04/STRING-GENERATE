@@ -8,7 +8,7 @@ Hey {}
 
 Welcome to \n{}
 Bot For help You to Create Session.
-[➼](https://telegra.ph/file/e453565890a4a82e60ed4.jpg) So Why are you waiting For Generat STRING Session
+[➼](https://te.legra.ph/file/0cb0a04edd1d3eea89108.jpg) So Why are you waiting For Generat STRING Session
 ───────────────────────
 
 If you don't trust this bot, 
@@ -18,7 +18,7 @@ If you don't trust this bot,
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-Pᴏᴡᴇʀᴇᴅ  Bʏ: [NAVYA](https://t.me/WTF_NAVYA)
+Pᴏᴡᴇʀᴇᴅ  Bʏ: [SUSHIL](https://t.me/iSUSHIL)
     """
 
     # Home Button
@@ -33,12 +33,12 @@ Pᴏᴡᴇʀᴇᴅ  Bʏ: [NAVYA](https://t.me/WTF_NAVYA)
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔰𝗦𝘁𝗮𝗿𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻🔰", callback_data="generate")],
-        [InlineKeyboardButton("𝗝𝗼𝗶𝗻 𝗚𝗿𝗼𝘂𝗽", url="https://t.me/NavyaSupport")],
+        [InlineKeyboardButton("𝗝𝗼𝗶𝗻 𝗚𝗿𝗼𝘂𝗽", url="https://t.me/iSOULSPAM")],
         [
             InlineKeyboardButton(" 𝙃𝙤𝙬 𝙩𝙤 𝙐𝙨𝙚", callback_data="help"),
             InlineKeyboardButton("𝘼𝙗𝙤𝙪𝙩", callback_data="about")
         ],
-        [InlineKeyboardButton("𝗝𝗼𝗶𝗻 𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url="https://t.me/TheNavya")],
+        [InlineKeyboardButton("𝗝𝗼𝗶𝗻 𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url="https://t.me/TheiSOUL")],
     ]
 
     # Help Message
@@ -67,5 +67,5 @@ Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @WTF_NAVYA
+Developer : @iSUSHIL
     """
