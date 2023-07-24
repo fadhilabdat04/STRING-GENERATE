@@ -17,12 +17,12 @@ if ENVIRONMENT:
         MUST_JOIN = MUST_JOIN.replace("@", "")
 else:
     # Fill the Values
-    API_ID = 0
-    API_HASH = ""
-    BOT_TOKEN = ""
-    DATABASE_URL = ""
+    API_ID = 12857763
+    API_HASH = "7b71e8bca0d5e1c6d8383ae818d9ec8d"
+    BOT_TOKEN = "6375262996:AAFZBXDHSjs6Yn5M_1CbV_XS-tWQqG_wYX4"
+    DATABASE_URL = "mongodb+srv://Arab01:fadhil123@cluster0.ul5qaif.mongodb.net/"
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
-    MUST_JOIN = ""
+    MUST_JOIN = "SiArab_Store"
     if MUST_JOIN.startswith("@"):
         MUST_JOIN = MUST_JOIN[1:]
 
